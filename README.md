@@ -1,4 +1,4 @@
-# -Currency-Converter
+# Currency-Converter
 A simple and efficient currency converter built using HTML, CSS, and JavaScript. This tool allows users to easily convert amounts between different currencies based on the latest exchange rates.
 
 How It Works:
